@@ -3,7 +3,7 @@
 # AtliQ Hardware Analytics
 
 ## 📌 Company Background
-**AtliQ Hardware** is a global manufacturer and seller of computer hardware and peripherals, including PCs, mice, and printers. The company operates through multiple sales channels:
+**AtliQ Hardware** is a global manufacturer and seller of computer hardware and peripherals, including PCs, mouse, and printers. The company operates through multiple sales channels:
 
 - **Retailer Channels:**
   - **Brick & Mortar:** Physical stores like Croma, Best Buy.
