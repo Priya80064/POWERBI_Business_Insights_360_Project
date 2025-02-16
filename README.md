@@ -2,6 +2,10 @@
 
 # AtliQ Hardware Analytics
 
+Live dashboard link : https://app.powerbi.com/view?r=eyJrIjoiMDYzNDlmYzYtNGQ0NC00NzFmLWFhMTgtYmI2ODVjMWVkMjMxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+Presentation Link : https://youtu.be/aGRcGqz2SBI
+
 ## 📌 Company Background
 **AtliQ Hardware** is a global manufacturer and seller of computer hardware and peripherals, including PCs, mouse, and printers. The company operates through multiple sales channels:
 
@@ -40,32 +44,35 @@ The dataset is structured for efficient ETL, analysis, and visualization, integr
 ## 📑 BI 360 Report Overview
 ### 1️⃣ Home View
 
-![Screenshot 2025-02-16 002016](https://github.com/user-attachments/assets/8c738a96-4b0a-4f70-b6e2-9e68c9443575)
+![Screenshot 2025-02-17 011843](https://github.com/user-attachments/assets/50026370-7877-4a60-bcce-8a578f5037d6)
 
 
 ### 2️⃣ Finance View
 
-![Screenshot 2025-02-16 002031](https://github.com/user-attachments/assets/3879528b-0332-403d-af30-d4d1e76dfd2c)
+![Screenshot 2025-02-17 011903](https://github.com/user-attachments/assets/490aa238-3b79-4f64-b25d-5727b5a5b4cd)
+
 
 
 ### 3️⃣ Sales View
 
-![Screenshot 2025-02-16 002047](https://github.com/user-attachments/assets/704c96fc-eefa-4687-be35-dbdbb9288945)
+![Screenshot 2025-02-17 012005](https://github.com/user-attachments/assets/77860da7-ff92-4677-8e25-40ac3cf74573)
+
 
 
 ### 4️⃣ Marketing View
 
-![Screenshot 2025-02-16 002100](https://github.com/user-attachments/assets/2c96b5a1-2b5d-4286-9cd5-dd0df6ff4b18)
+![Screenshot 2025-02-17 012025](https://github.com/user-attachments/assets/3ea74689-e61f-4a11-8057-afc649318bf5)
 
 
 ### 5️⃣ Supply Chain View
 
-![Screenshot 2025-02-16 002113](https://github.com/user-attachments/assets/7d324971-d16a-4036-b698-08e5e146cadc)
+![Screenshot 2025-02-17 012050](https://github.com/user-attachments/assets/8d55290e-1aee-4d2f-bff5-03f7bf5b96d0)
+
 
 
 ### 6️⃣ Executive View
 
-![Screenshot 2025-02-16 002131](https://github.com/user-attachments/assets/c081d6af-e8cd-455a-b3d3-61140f0abacc)
+![Screenshot 2025-02-17 012126](https://github.com/user-attachments/assets/e47a754c-6d1a-4d9e-8dff-c6b155eafe58)
 
 
 ## 📈 Key Insights
